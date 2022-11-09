@@ -18,3 +18,6 @@ JAVA, C/C++M Python 등을 지원
 2. lombok
 3. Springboot helper
 4. Spring Web
+
+## 2022-11-09 수정사항( pargeuntae )
+- 프로젝트명, 패키지명 수정
