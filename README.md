@@ -55,5 +55,6 @@ JAVA, C/C++M Python 등을 지원
 
 ## 2022-11-18 기능추가( parkgeuntae )
 - 회원가입, 회원조회 기능 추가
+- mysql 데이터베이스 기능 추가
 #### 라이브러리 삭제
 - h2 database 라이브러리 삭제
